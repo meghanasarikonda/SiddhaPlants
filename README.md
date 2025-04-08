@@ -25,10 +25,23 @@ A minimalist plant e-commerce platform built with **React**, focused on simplici
 
 ---
 
-## 🔐 .env Setup
+## 📦 .Installation Instructions
 
 Before running the app, create a `.env` file in the root directory with the following variables:
 
 ```env
 VITE_API_BASE_URL=https://your-api-url.com
 VITE_API_KEY=your_key_here
+
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/siddhaplants.git
+
+# 2. Navigate to the project directory
+cd siddhaplants
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
